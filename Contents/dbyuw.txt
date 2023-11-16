@@ -1,0 +1,4 @@
+    if ((hi || hf > 24) && (mi || mf > 60))
+    {
+        cout << "Nao e possível";
+    }
